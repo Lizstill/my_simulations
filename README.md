@@ -5,7 +5,7 @@ The known_right_maze.py has direction ranges where if the robot is a certain dis
 If the mazes are smaller than the ones that I used. I would slow down the linear velocity and the angular velocity of the robot. If th emaze includes a series of tight turns,
 I would also try to include a dely before the turn left and the follow the wall functions so that the robot is able to clear and wall's corner.
 The lidar scans are set for gazebo with the 360 degrees scanner.
-Os: Ubuntu 
+Os: Ubuntu 20.04
 ROS: ROS Noetic
 Packages Used: Turtlebot3
 https://github.com/ROBOTIS-GIT/turtlebot3/tree/noetic-devel
